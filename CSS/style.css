@@ -1,0 +1,32 @@
+h1{
+background-color:#31694E;
+color:white;
+text-align:center;
+/*border-radius: 25% 10%;
+ border-radius: 50% 20% / 10% 40%;
+ 
+ */
+  border-radius: 20px 0 20px 0;
+  
+   padding: 10px;
+  
+}
+
+ p{
+ 
+/*
+ padding-left: 10px;
+ padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+   */
+ padding: 20px 10px 20px 10px;
+
+ text-align:left;
+
+ border: 2px solid #31694E;
+  padding: 20px 10px ; 
+  font-size: 20px;
+ 
+ }
